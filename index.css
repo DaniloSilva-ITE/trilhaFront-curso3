@@ -43,7 +43,9 @@ nav a:hover {
 }
 
 .titulo-centralizado {
-	text-align: center
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
 }
 
 p {
@@ -67,7 +69,7 @@ em strong {
 	padding: 20px;
 }
 
-ul {
+.listaItens {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
